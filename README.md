@@ -1,4 +1,4 @@
-# My First Project
+# My First Project - This project for learning GitHub
 
 This is my first Python project 🚀
 
