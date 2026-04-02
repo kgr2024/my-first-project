@@ -10,3 +10,9 @@ This is my first Python project 🚀
 
 ```bash
 python Hello_World.py
+
+## Tech
+-- Python 3
+
+## Author
+Konstantin
